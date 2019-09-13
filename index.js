@@ -1,1 +1,1 @@
-module.exports = require('./lib/graph');
+module.exports = require('./lib/graph')

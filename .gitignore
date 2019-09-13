@@ -1,4 +1,4 @@
 *.swp
 .npmrc
 node_modules/
-tests/my*
+tests/
